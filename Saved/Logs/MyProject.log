@@ -1370,3 +1370,1208 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.05.10-12.17.29:012][830]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/imagies/NewTable.NewTable
 [2023.05.10-12.17.29:012][830]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainMENU.MainMENU
 [2023.05.10-12.17.29:012][830]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/widgets/MainMenu.MainMenu
+[2023.05.10-12.19.02:411][660]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.02:411][660]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.02:464][661]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.02:464][661]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.04:591][806]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/human/BP_HumanCtrl.BP_HumanCtrl
+[2023.05.10-12.19.05:442][806]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.05:442][806]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.05:991][806]LogSlate: Took 0.001252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.10-12.19.06:024][807]LogSlate: Took 0.001173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.10-12.19.26:173][428]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.26:173][428]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.26:175][428]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.26:175][428]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.26:176][428]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.26:176][428]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.26:179][428]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.26:179][428]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.19.57:013][835]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-12.19.57:013][835]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-12.20.44:730][735]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.20.44:730][735]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.20.48:050][918]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ThirdPersonBP/human/Animations/grab_start_Montage.grab_start_Montage
+[2023.05.10-12.20.48:405][918]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2023.05.10-12.20.48:434][918]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.05.10-12.20.48:596][918]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.10-12.20.48:715][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.10-12.20.48:722][918]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2023.05.10-12.21.16:567][690]BlueprintLog: New page: Compile BP_HumanCtrl
+[2023.05.10-12.21.16:671][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:671][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:673][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:673][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:674][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:674][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:675][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:676][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:879][690]LogUObjectHash: Compacting FUObjectHashTables data took  11.22ms
+[2023.05.10-12.21.16:896][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:897][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:898][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:898][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:901][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:901][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:903][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:903][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:904][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:904][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:979][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:979][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:981][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:981][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:983][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:983][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:984][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.16:984][690]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.19:568][887]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.19:568][887]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.19:571][887]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.19:571][887]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.19:574][887]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.19:574][887]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.19:575][887]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.19:575][887]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.30:918][848]BlueprintLog: New page: Compile BP_HumanCtrl
+[2023.05.10-12.21.31:003][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:003][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:005][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:005][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:006][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:006][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:007][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:007][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:129][848]LogUObjectHash: Compacting FUObjectHashTables data took   9.80ms
+[2023.05.10-12.21.31:141][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:141][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:143][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:143][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:145][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:145][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:146][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:146][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:148][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:148][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:223][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:223][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:225][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:225][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:227][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:227][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:228][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:228][848]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:629][853]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.10-12.21.31:637][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.10-12.21.31:638][853]PIE: New page: PIE session: MainMENU (10 мая 2023 г., 18:21:31)
+[2023.05.10-12.21.31:638][853]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMENU
+[2023.05.10-12.21.31:641][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002823s)
+[2023.05.10-12.21.31:642][853]LogAIModule: Creating AISystem for world MainMENU
+[2023.05.10-12.21.31:642][853]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2023.05.10-12.21.31:642][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMENU.MainMENU to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMENU.MainMENU (0.004519s)
+[2023.05.10-12.21.31:708][853]LogUObjectHash: Compacting FUObjectHashTables data took   9.23ms
+[2023.05.10-12.21.31:709][853]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.10-12.21.31:709][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.10-12.21.31:709][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.10-12.21.31:709][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.10-12.21.31:709][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.10-12.21.31:709][853]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.10-12.21.31:709][853]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.10-12.21.31:709][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.10-12.21.31:709][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.10-12.21.31:709][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.10-12.21.31:709][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.10-12.21.31:709][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.10-12.21.31:709][853]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.10-12.21.31:714][853]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.10-12.21.31:714][853]LogAudioMixer: Display: 1: FrontRight
+[2023.05.10-12.21.31:735][853]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.05.10-12.21.31:736][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.10-12.21.31:736][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.10-12.21.31:736][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.10-12.21.31:737][853]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.10-12.21.31:737][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.10-12.21.31:737][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.10-12.21.31:739][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.10-12.21.31:739][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.10-12.21.31:739][853]LogInit: FAudioDevice initialized.
+[2023.05.10-12.21.31:740][853]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMENU'.
+[2023.05.10-12.21.31:794][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.21.31:794][853]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.10-12.21.31:795][853]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMENU.MainMENU up for play (max tick rate 0) at 2023.05.10-15.21.31
+[2023.05.10-12.21.31:796][853]LogWorld: Bringing up level for play took: 0.000925
+[2023.05.10-12.21.31:796][853]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.05.10-12.21.31:798][853]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.10-12.21.31:799][853]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:799][853]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.31:816][853]PIE: Server logged in
+[2023.05.10-12.21.31:828][853]PIE: Play in editor total start time 0,191 seconds.
+[2023.05.10-12.21.34:127][977]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.10-12.21.34:149][977]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMENU
+[2023.05.10-12.21.34:178][977]LogWorld: UWorld::CleanupWorld for MainMENU, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.21.34:178][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.21.34:196][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.10-12.21.34:208][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.21.34:258][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.10-12.21.34:259][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.21.34:260][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.21.34:274][977]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2023.05.10-12.21.34:316][978]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.05.10-12.21.49:295][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2023.05.10-12.21.50:266][ 60]LogSlate: Window 'Save Content' being destroyed
+[2023.05.10-12.21.50:435][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.50:435][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.50:484][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/human/BP_HumanCtrl" FILE="../../../../Project XXX/Content/ThirdPersonBP/human/BP_HumanCtrl.uasset" SILENT=true
+[2023.05.10-12.21.50:752][ 60]LogSavePackage: Moving '../../../../Project XXX/Saved/BP_HumanCtrl77700486472DCC6524BD299FABBC309F.tmp' to '../../../../Project XXX/Content/ThirdPersonBP/human/BP_HumanCtrl.uasset'
+[2023.05.10-12.21.52:051][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.52:051][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.52:105][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.52:105][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.52:106][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.52:106][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.52:112][ 60]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.05.10-12.21.52:112][ 60]Cmd: MAP LOAD FILE="../../../../Project XXX/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.10-12.21.52:112][ 60]LightingResults: New page: Lighting Build
+[2023.05.10-12.21.52:113][ 60]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2023.05.10-12.21.52:116][ 60]LogWorld: UWorld::CleanupWorld for MainMENU, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.21.52:116][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.21.52:116][ 60]MapCheck: New page: Map Check
+[2023.05.10-12.21.52:116][ 60]LightingResults: New page: Lighting Build
+[2023.05.10-12.21.52:241][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.10-12.21.52:293][ 60]LogUObjectHash: Compacting FUObjectHashTables data took  12.69ms
+[2023.05.10-12.21.52:302][ 60]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.05.10-12.21.53:440][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.53:440][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.53:511][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.53:511][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.53:512][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.53:512][ 60]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.21.54:639][ 60]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2023.05.10-12.21.54:640][ 60]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.10-12.21.55:007][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   9.03ms
+[2023.05.10-12.21.55:032][ 60]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.10-12.21.55:033][ 60]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,891ms to complete.
+[2023.05.10-12.21.55:033][ 60]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.921
+[2023.05.10-12.21.55:123][ 60]AssetCheck: New page: Asset Save: BP_HumanCtrl
+[2023.05.10-12.21.55:123][ 60]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/human/BP_HumanCtrl.BP_HumanCtrl
+[2023.05.10-12.22.01:199][ 93]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.10-12.22.01:210][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.10-12.22.01:210][ 93]PIE: New page: PIE session: ThirdPersonExampleMap (10 мая 2023 г., 18:22:01)
+[2023.05.10-12.22.01:210][ 93]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.10-12.22.01:841][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.630359s)
+[2023.05.10-12.22.01:846][ 93]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.10-12.22.01:848][ 93]LogPlayLevel: PIE: World Init took: (0.006845s)
+[2023.05.10-12.22.01:850][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.638671s)
+[2023.05.10-12.22.01:910][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   9.07ms
+[2023.05.10-12.22.01:919][ 93]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.05.10-12.22.01:920][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.10-12.22.01:920][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.10-12.22.01:920][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.10-12.22.01:920][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.10-12.22.01:920][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.10-12.22.01:920][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.10-12.22.01:920][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.10-12.22.01:920][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.10-12.22.01:921][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.10-12.22.01:921][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.10-12.22.01:921][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.10-12.22.01:921][ 93]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.10-12.22.01:926][ 93]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.10-12.22.01:926][ 93]LogAudioMixer: Display: 1: FrontRight
+[2023.05.10-12.22.01:945][ 93]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.05.10-12.22.01:946][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.10-12.22.01:946][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.10-12.22.01:946][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.10-12.22.01:947][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.10-12.22.01:947][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.10-12.22.01:947][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.10-12.22.02:047][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.10-12.22.02:047][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.10-12.22.02:047][ 93]LogInit: FAudioDevice initialized.
+[2023.05.10-12.22.02:047][ 93]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2023.05.10-12.22.02:104][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.22.02:104][ 93]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.10-12.22.02:429][ 93]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.22.02:429][ 93]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.22.02:432][ 93]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.10-15.22.02
+[2023.05.10-12.22.02:441][ 93]LogWorld: Bringing up level for play took: 0.335478
+[2023.05.10-12.22.02:441][ 93]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.05.10-12.22.02:448][ 93]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.22.02:448][ 93]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.22.02:467][ 93]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.10-12.22.02:479][ 93]PIE: Server logged in
+[2023.05.10-12.22.02:481][ 93]PIE: Play in editor total start time 1,274 seconds.
+[2023.05.10-12.22.10:007][244]LogBlueprintUserMessages: [BP_item3] good
+[2023.05.10-12.22.12:935][313]LogBlueprintUserMessages: [BP_item_2] good
+[2023.05.10-12.22.26:558][642]LogBlueprintUserMessages: [BP_item2] good
+[2023.05.10-12.22.28:432][684]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.10-12.22.28:432][684]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.10-12.22.28:432][684]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.10-12.22.29:207][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.22.29:207][702]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.10-12.22.29:207][702]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.10-12.22.29:636][712]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.10-12.22.29:636][712]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.10-12.22.29:636][712]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.10-12.22.30:140][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.22.30:140][724]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.10-12.22.30:140][724]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.10-12.22.30:518][733]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.10-12.22.30:518][733]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.10-12.22.30:519][733]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.10-12.22.31:022][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.22.31:022][745]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.10-12.22.31:022][745]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.10-12.22.31:487][756]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.10-12.22.31:487][756]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.10-12.22.31:487][756]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.10-12.22.31:994][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.22.31:995][768]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.10-12.22.31:995][768]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.10-12.22.33:445][803]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.10-12.22.33:445][803]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.10-12.22.33:445][803]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.10-12.22.34:443][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.22.34:443][827]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.10-12.22.34:443][827]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.10-12.22.47:008][133]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.10-12.22.47:008][133]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.10-12.22.47:008][133]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.10-12.22.48:121][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.22.48:122][159]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.10-12.22.48:122][159]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.10-12.22.51:422][233]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.10-12.22.51:422][233]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.10-12.22.51:422][233]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.10-12.22.52:352][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.22.52:352][254]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.10-12.22.52:352][254]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.10-12.22.55:677][326]LogBlueprintUserMessages: [BP_item_C_0] good
+[2023.05.10-12.22.59:538][425]LogBlueprintUserMessages: [BP_item_C_1] good
+[2023.05.10-12.23.01:952][487]LogBlueprintUserMessages: [BP_item_C_2] good
+[2023.05.10-12.23.04:158][544]LogBlueprintUserMessages: [BP_item_C_3] good
+[2023.05.10-12.23.08:879][664]LogBlueprintUserMessages: [BP_item_C_4] good
+[2023.05.10-12.23.11:219][717]LogBlueprintUserMessages: [BP_item_C_5] good
+[2023.05.10-12.23.14:821][797]LogBlueprintUserMessages: [BP_item_C_6] good
+[2023.05.10-12.23.17:627][860]LogBlueprintUserMessages: [BP_item_C_7] good
+[2023.05.10-12.23.27:799][ 79]LogBlueprintUserMessages: [BP_item_C_8] good
+[2023.05.10-12.23.31:020][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.23.31:020][154]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.10-12.23.31:024][154]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.10-12.23.31:054][154]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.23.31:092][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.23.31:107][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.10-12.23.31:127][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.23.31:217][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.23.31:221][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.23.31:351][154]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2023.05.10-12.23.31:390][155]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.05.10-12.24.01:641][528]BlueprintLog: New page: Compile BP_HumanCtrl
+[2023.05.10-12.24.01:744][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:745][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:747][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:747][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:748][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:748][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:750][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:750][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:751][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:751][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:752][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:752][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:855][528]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2023.05.10-12.24.01:870][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:870][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:872][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:872][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:874][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:874][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:875][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:875][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:877][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:877][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:878][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:878][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:879][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:879][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:960][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:960][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:962][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:962][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:964][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:964][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:965][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:965][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:967][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:967][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:968][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.01:968][528]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.07:497][970]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.10-12.24.07:506][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.10-12.24.07:506][970]PIE: New page: PIE session: ThirdPersonExampleMap (10 мая 2023 г., 18:24:07)
+[2023.05.10-12.24.07:506][970]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.10-12.24.07:973][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.465960s)
+[2023.05.10-12.24.07:974][970]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.10-12.24.07:975][970]LogPlayLevel: PIE: World Init took: (0.002017s)
+[2023.05.10-12.24.07:976][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.468755s)
+[2023.05.10-12.24.08:048][970]LogUObjectHash: Compacting FUObjectHashTables data took  11.07ms
+[2023.05.10-12.24.08:051][970]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.10-12.24.08:051][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.10-12.24.08:051][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.10-12.24.08:051][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.10-12.24.08:051][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.10-12.24.08:051][970]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.10-12.24.08:051][970]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.10-12.24.08:052][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.10-12.24.08:052][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.10-12.24.08:052][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.10-12.24.08:052][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.10-12.24.08:052][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.10-12.24.08:052][970]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.10-12.24.08:054][970]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.10-12.24.08:054][970]LogAudioMixer: Display: 1: FrontRight
+[2023.05.10-12.24.08:076][970]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.05.10-12.24.08:077][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.10-12.24.08:077][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.10-12.24.08:077][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.10-12.24.08:078][970]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.10-12.24.08:078][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.10-12.24.08:078][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.10-12.24.08:079][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.10-12.24.08:080][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.10-12.24.08:080][970]LogInit: FAudioDevice initialized.
+[2023.05.10-12.24.08:080][970]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2023.05.10-12.24.08:123][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.24.08:123][970]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.10-12.24.08:347][970]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.08:348][970]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.08:351][970]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.10-15.24.08
+[2023.05.10-12.24.08:356][970]LogWorld: Bringing up level for play took: 0.231636
+[2023.05.10-12.24.08:356][970]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.05.10-12.24.08:360][970]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.08:360][970]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.08:369][970]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.10-12.24.08:381][970]PIE: Server logged in
+[2023.05.10-12.24.08:392][970]PIE: Play in editor total start time 0,887 seconds.
+[2023.05.10-12.24.16:812][156]LogBlueprintUserMessages: [BP_item2] good
+[2023.05.10-12.24.18:699][201]LogBlueprintUserMessages: [BP_item3] good
+[2023.05.10-12.24.19:847][229]LogBlueprintUserMessages: [BP_item_2] good
+[2023.05.10-12.24.22:759][297]LogBlueprintUserMessages: [BP_item_C_0] good
+[2023.05.10-12.24.23:429][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.24.23:429][312]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.10-12.24.23:430][312]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.10-12.24.23:478][312]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.24.23:513][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.24.23:553][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.10-12.24.23:575][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.24.23:657][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.10-12.24.23:658][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.24.23:659][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.24.23:781][312]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2023.05.10-12.24.23:829][313]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.05.10-12.24.26:679][555]BlueprintLog: New page: Compile BP_HumanCtrl
+[2023.05.10-12.24.26:766][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:766][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:768][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:768][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:769][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:769][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:771][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:771][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:772][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:772][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:773][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:773][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:867][555]LogUObjectHash: Compacting FUObjectHashTables data took   8.90ms
+[2023.05.10-12.24.26:878][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:878][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:880][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:880][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:882][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:882][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:883][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:883][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:885][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:885][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:886][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:886][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:887][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:887][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:959][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:959][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:961][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:961][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:963][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:963][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:964][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:964][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:966][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:966][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:967][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.26:967][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.27:929][609]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.10-12.24.27:939][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.10-12.24.27:939][609]PIE: New page: PIE session: ThirdPersonExampleMap (10 мая 2023 г., 18:24:27)
+[2023.05.10-12.24.27:939][609]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.10-12.24.28:437][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.498186s)
+[2023.05.10-12.24.28:438][609]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.10-12.24.28:439][609]LogPlayLevel: PIE: World Init took: (0.002189s)
+[2023.05.10-12.24.28:440][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.501166s)
+[2023.05.10-12.24.28:512][609]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2023.05.10-12.24.28:513][609]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.10-12.24.28:513][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.10-12.24.28:513][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.10-12.24.28:513][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.10-12.24.28:513][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.10-12.24.28:513][609]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.10-12.24.28:513][609]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.10-12.24.28:513][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.10-12.24.28:513][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.10-12.24.28:514][609]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.10-12.24.28:514][609]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.10-12.24.28:514][609]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.10-12.24.28:514][609]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.10-12.24.28:516][609]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.10-12.24.28:516][609]LogAudioMixer: Display: 1: FrontRight
+[2023.05.10-12.24.28:536][609]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.05.10-12.24.28:536][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.10-12.24.28:536][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.10-12.24.28:536][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.10-12.24.28:537][609]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.10-12.24.28:537][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.10-12.24.28:537][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.10-12.24.28:539][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.10-12.24.28:539][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.10-12.24.28:539][609]LogInit: FAudioDevice initialized.
+[2023.05.10-12.24.28:539][609]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2023.05.10-12.24.28:589][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.24.28:589][609]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.10-12.24.28:797][609]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.28:797][609]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.28:800][609]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.10-15.24.28
+[2023.05.10-12.24.28:804][609]LogWorld: Bringing up level for play took: 0.214178
+[2023.05.10-12.24.28:805][609]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.05.10-12.24.28:809][609]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.28:809][609]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.28:819][609]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.10-12.24.28:832][609]PIE: Server logged in
+[2023.05.10-12.24.28:845][609]PIE: Play in editor total start time 0,907 seconds.
+[2023.05.10-12.24.33:018][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.24.33:018][705]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.10-12.24.33:019][705]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.10-12.24.33:073][705]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.24.33:116][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.24.33:131][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.10-12.24.33:151][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.24.33:213][705]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.10-12.24.33:240][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.24.33:241][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.24.33:362][705]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2023.05.10-12.24.33:412][706]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.05.10-12.24.38:019][112]BlueprintLog: New page: Compile BP_HumanCtrl
+[2023.05.10-12.24.38:111][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:111][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:113][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:114][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:115][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:115][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:116][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:116][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:117][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:117][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:118][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:119][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:216][112]LogUObjectHash: Compacting FUObjectHashTables data took   8.94ms
+[2023.05.10-12.24.38:229][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:229][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:230][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:230][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:232][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:233][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:234][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:234][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:235][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:235][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:236][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:236][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:237][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:238][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:308][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:308][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:310][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:310][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:312][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:312][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:313][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:313][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:315][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:315][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:316][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:316][112]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.38:743][119]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.10-12.24.38:752][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.10-12.24.38:753][119]PIE: New page: PIE session: ThirdPersonExampleMap (10 мая 2023 г., 18:24:38)
+[2023.05.10-12.24.38:753][119]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.10-12.24.39:208][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.456307s)
+[2023.05.10-12.24.39:209][119]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.10-12.24.39:210][119]LogPlayLevel: PIE: World Init took: (0.001931s)
+[2023.05.10-12.24.39:211][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.458858s)
+[2023.05.10-12.24.39:286][119]LogUObjectHash: Compacting FUObjectHashTables data took  10.28ms
+[2023.05.10-12.24.39:289][119]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.10-12.24.39:289][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.10-12.24.39:289][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.10-12.24.39:289][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.10-12.24.39:289][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.10-12.24.39:289][119]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.10-12.24.39:289][119]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.10-12.24.39:289][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.10-12.24.39:289][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.10-12.24.39:290][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.10-12.24.39:290][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.10-12.24.39:290][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.10-12.24.39:290][119]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.10-12.24.39:293][119]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.10-12.24.39:293][119]LogAudioMixer: Display: 1: FrontRight
+[2023.05.10-12.24.39:312][119]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.05.10-12.24.39:313][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.10-12.24.39:313][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.10-12.24.39:313][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.10-12.24.39:314][119]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.10-12.24.39:314][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.10-12.24.39:314][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.10-12.24.39:316][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.10-12.24.39:316][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.10-12.24.39:316][119]LogInit: FAudioDevice initialized.
+[2023.05.10-12.24.39:316][119]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2023.05.10-12.24.39:345][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.24.39:345][119]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.10-12.24.39:540][119]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.39:541][119]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.39:543][119]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.10-15.24.39
+[2023.05.10-12.24.39:547][119]LogWorld: Bringing up level for play took: 0.201430
+[2023.05.10-12.24.39:548][119]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.05.10-12.24.39:552][119]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.39:552][119]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.24.39:562][119]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.10-12.24.39:575][119]PIE: Server logged in
+[2023.05.10-12.24.39:588][119]PIE: Play in editor total start time 0,837 seconds.
+[2023.05.10-12.24.44:412][221]LogBlueprintUserMessages: [BP_item2] good
+[2023.05.10-12.24.46:281][266]LogBlueprintUserMessages: [BP_item3] good
+[2023.05.10-12.24.47:697][301]LogBlueprintUserMessages: [BP_item_2] good
+[2023.05.10-12.24.50:500][370]LogBlueprintUserMessages: [BP_item_C_0] good
+[2023.05.10-12.24.52:748][426]LogBlueprintUserMessages: [BP_item_C_1] good
+[2023.05.10-12.24.54:645][472]LogBlueprintUserMessages: [BP_item_C_2] good
+[2023.05.10-12.24.56:551][514]LogBlueprintUserMessages: [BP_item_C_3] good
+[2023.05.10-12.24.58:504][561]LogBlueprintUserMessages: [BP_item_C_4] good
+[2023.05.10-12.25.00:443][608]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.10-12.25.00:443][608]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.10-12.25.00:443][608]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.10-12.25.02:270][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.25.02:271][652]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.10-12.25.02:271][652]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.10-12.25.03:729][687]LogBlueprintUserMessages: [BP_item_C_5] good
+[2023.05.10-12.25.04:625][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.25.04:625][707]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.10-12.25.04:626][707]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.10-12.25.04:664][707]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.25.04:703][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.25.04:724][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.10-12.25.04:743][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.25.04:827][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.25.04:828][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.25.04:947][707]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2023.05.10-12.25.04:993][708]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.05.10-12.27.50:303][804]LogSlate: Window 'grab_start_Montage' being destroyed
+[2023.05.10-12.27.58:305][163]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/human/Animations/grab_start_freeze.grab_start_freeze
+[2023.05.10-12.27.58:410][163]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/human/Animations/grab_start_freeze.grab_start_freeze
+[2023.05.10-12.27.58:661][163]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.10-12.28.05:602][503]LogSlate: Window 'Create New Animation Object' being destroyed
+[2023.05.10-12.28.12:174][868]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.28.12:174][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.28.12:231][868]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.28.12:231][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.28.12:495][868]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.28.12:495][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.28.14:691][906]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/human/Animations/grab_start.grab_start
+[2023.05.10-12.28.14:704][906]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.10-12.28.15:431][906]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.10-12.28.18:765][959]LogSlate: Window 'grab_start' being destroyed
+[2023.05.10-12.28.18:804][959]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.28.18:804][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.28.18:845][959]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.28.18:845][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.28.18:937][959]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.28.18:937][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.28.31:694][572]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/human/Animations/leftarmreverse.leftarmreverse
+[2023.05.10-12.28.31:797][572]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/human/Animations/leftarmreverse.leftarmreverse
+[2023.05.10-12.28.31:806][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.10-12.28.32:340][572]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.10-12.28.35:421][623]LogSlate: Window 'leftarmreverse' being destroyed
+[2023.05.10-12.28.35:455][623]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.28.35:455][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.28.35:493][623]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.28.35:493][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.28.35:571][623]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.28.35:572][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.29.04:697][379]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/human/Animations/Running_with_luggage.Running_with_luggage
+[2023.05.10-12.29.05:602][379]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/human/Animations/Running_with_luggage.Running_with_luggage
+[2023.05.10-12.29.05:612][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.10-12.29.06:199][379]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.10-12.34.06:511][ 36]LogUObjectHash: Compacting FUObjectHashTables data took  23.74ms
+[2023.05.10-12.34.06:545][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.318
+[2023.05.10-12.34.06:548][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/human/BP_HumanCtrl] ([2] browsable assets)...
+[2023.05.10-12.34.06:579][ 36]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/human/BP_HumanCtrl.BP_HumanCtrl]
+[2023.05.10-12.34.06:579][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/human/BP_HumanCtrl]
+[2023.05.10-12.34.06:579][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/human/BP_HumanCtrl" FILE="../../../../Project XXX/Saved/Autosaves/Game/ThirdPersonBP/human/BP_HumanCtrl_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.05.10-12.34.06:930][ 36]LogSavePackage: Moving '../../../../Project XXX/Saved/BP_HumanCtrl_Auto21966378646834ED43466A0B43F6C58FB.tmp' to '../../../../Project XXX/Saved/Autosaves/Game/ThirdPersonBP/human/BP_HumanCtrl_Auto2.uasset'
+[2023.05.10-12.34.06:932][ 36]LogFileHelpers: Auto-saving content packages took 0.386
+[2023.05.10-12.37.53:008][863]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/human/Animations/Walking_with_luggage_mixamo_com.Walking_with_luggage_mixamo_com
+[2023.05.10-12.37.53:163][863]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/human/Animations/Walking_with_luggage_mixamo_com.Walking_with_luggage_mixamo_com
+[2023.05.10-12.37.53:278][863]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.37.53:278][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.38.39:000][380]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.10-12.38.39:014][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.10-12.38.39:023][380]PIE: New page: PIE session: ThirdPersonExampleMap (10 мая 2023 г., 18:38:39)
+[2023.05.10-12.38.39:026][380]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.10-12.38.39:574][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.548900s)
+[2023.05.10-12.38.39:581][380]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.10-12.38.39:584][380]LogPlayLevel: PIE: World Init took: (0.009539s)
+[2023.05.10-12.38.39:584][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.559407s)
+[2023.05.10-12.38.39:680][380]LogUObjectHash: Compacting FUObjectHashTables data took  10.26ms
+[2023.05.10-12.38.39:691][380]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.10-12.38.39:693][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.10-12.38.39:693][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.10-12.38.39:693][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.10-12.38.39:693][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.10-12.38.39:693][380]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.10-12.38.39:693][380]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.10-12.38.39:693][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.10-12.38.39:694][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.10-12.38.39:696][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.10-12.38.39:696][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.10-12.38.39:696][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.10-12.38.39:696][380]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.10-12.38.39:708][380]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.10-12.38.39:708][380]LogAudioMixer: Display: 1: FrontRight
+[2023.05.10-12.38.39:750][380]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.05.10-12.38.39:752][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.10-12.38.39:752][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.10-12.38.39:753][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.10-12.38.39:754][380]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.10-12.38.39:754][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.10-12.38.39:754][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.10-12.38.39:756][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.10-12.38.39:756][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.10-12.38.39:756][380]LogInit: FAudioDevice initialized.
+[2023.05.10-12.38.39:756][380]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2023.05.10-12.38.39:807][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.38.39:809][380]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.10-12.38.40:200][380]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.38.40:202][380]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.38.40:208][380]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.10-15.38.40
+[2023.05.10-12.38.40:215][380]LogWorld: Bringing up level for play took: 0.405285
+[2023.05.10-12.38.40:218][380]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.05.10-12.38.40:226][380]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.38.40:226][380]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.38.40:252][380]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.10-12.38.40:275][380]PIE: Server logged in
+[2023.05.10-12.38.40:278][380]PIE: Play in editor total start time 1,267 seconds.
+[2023.05.10-12.38.48:126][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.38.48:126][528]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.10-12.38.48:128][528]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.10-12.38.48:151][528]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.38.48:196][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.38.48:222][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.10-12.38.48:249][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.38.48:337][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.10-12.38.48:341][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.38.48:345][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.38.48:474][528]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2023.05.10-12.38.48:518][529]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.05.10-12.39.07:818][909]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/human/Animations/open_chest.open_chest
+[2023.05.10-12.39.07:916][909]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/human/Animations/open_chest.open_chest
+[2023.05.10-12.39.08:028][909]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.39.08:029][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.39.14:751][403]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.39.14:751][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.39.14:780][403]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.39.14:780][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.39.14:854][403]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.39.14:854][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.39.22:375][643]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/human/Animations/grab_the_object.grab_the_object
+[2023.05.10-12.39.22:503][643]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/human/Animations/grab_the_object.grab_the_object
+[2023.05.10-12.39.22:514][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.10-12.39.23:011][643]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.10-12.39.27:368][717]LogSlate: Window 'grab_the_object' being destroyed
+[2023.05.10-12.39.27:395][717]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.39.27:395][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.39.27:427][717]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.39.27:427][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.39.27:499][717]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.39.27:500][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.39.38:672][192]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ThirdPersonBP/human/Animations/grab_start_Montage.grab_start_Montage
+[2023.05.10-12.39.38:679][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.10-12.40.00:191][567]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.10-12.40.54:904][957]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.40.54:904][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.40.58:032][ 12]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.40.58:032][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.41.05:629][153]LogSlate: Window 'grab_start_Montage' being destroyed
+[2023.05.10-12.41.05:642][153]LogSlate: Window 'grab_start_Montage' being destroyed
+[2023.05.10-12.41.05:643][153]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.41.05:643][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.41.05:732][153]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.41.05:732][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.41.45:639][662]LogSlate: Window 'Pick Skeleton' being destroyed
+[2023.05.10-12.41.45:664][662]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2023.05.10-12.41.45:869][662]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2023.05.10-12.41.47:687][696]LogContentBrowser: Attempting asset rename: NewBlendSpace -> NewBlendSpace
+[2023.05.10-12.41.47:873][696]LogContentBrowser: End creating deferred item NewBlendSpace
+[2023.05.10-12.41.49:042][775]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/human/Animations/NewBlendSpace.NewBlendSpace
+[2023.05.10-12.41.49:050][775]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.10-12.41.49:533][775]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.10-12.42.07:880][212]LogSlate: Window 'NewBlendSpace' being destroyed
+[2023.05.10-12.42.07:905][212]LogSlate: Window 'NewBlendSpace' being destroyed
+[2023.05.10-12.42.07:905][212]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.42.07:905][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.42.07:989][212]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.42.07:989][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.42.11:977][460]BlueprintLog: New page: Compile BP_HumanCtrl
+[2023.05.10-12.42.12:136][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:136][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:142][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:142][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:144][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:144][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:146][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:146][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:147][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:147][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:149][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:149][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:330][460]LogUObjectHash: Compacting FUObjectHashTables data took   9.59ms
+[2023.05.10-12.42.12:360][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:360][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:362][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:362][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:364][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:364][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:366][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:366][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:367][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:368][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:369][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:369][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:370][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:370][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:788][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:788][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:789][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:790][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:791][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:792][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:793][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:793][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:795][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:795][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:796][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.12:796][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.42.57:495][691]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-12.42.57:496][691]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-12.43.07:254][888]LogUObjectHash: Compacting FUObjectHashTables data took  11.22ms
+[2023.05.10-12.43.09:650][888]LogSlate: Window 'Save Content' being destroyed
+[2023.05.10-12.43.09:919][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/human/BP_HumanCtrl" FILE="../../../../Project XXX/Content/ThirdPersonBP/human/BP_HumanCtrl.uasset" SILENT=true
+[2023.05.10-12.43.10:180][888]LogSavePackage: Moving '../../../../Project XXX/Saved/BP_HumanCtrlB879B47741D16C68DF6EF3A0B427A6AE.tmp' to '../../../../Project XXX/Content/ThirdPersonBP/human/BP_HumanCtrl.uasset'
+[2023.05.10-12.43.10:196][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/human/Animations/NewBlendSpace" FILE="../../../../Project XXX/Content/ThirdPersonBP/human/Animations/NewBlendSpace.uasset" SILENT=true
+[2023.05.10-12.43.10:204][888]LogSavePackage: Moving '../../../../Project XXX/Saved/NewBlendSpace408903AB4320654A2EDA22839F504032.tmp' to '../../../../Project XXX/Content/ThirdPersonBP/human/Animations/NewBlendSpace.uasset'
+[2023.05.10-12.43.10:530][888]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainMENU.MainMENU
+[2023.05.10-12.43.10:530][888]Cmd: MAP LOAD FILE="../../../../Project XXX/Content/ThirdPersonBP/Maps/MainMENU.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.10-12.43.10:531][888]LightingResults: New page: Lighting Build
+[2023.05.10-12.43.10:533][888]LoadErrors: New page: Loading map: MainMENU.umap
+[2023.05.10-12.43.11:118][888]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.43.11:121][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.43.11:124][888]MapCheck: New page: Map Check
+[2023.05.10-12.43.11:125][888]LightingResults: New page: Lighting Build
+[2023.05.10-12.43.11:201][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.10-12.43.11:635][888]LogUObjectHash: Compacting FUObjectHashTables data took   9.34ms
+[2023.05.10-12.43.11:682][888]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMENU'.
+[2023.05.10-12.43.11:773][888]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.10-12.43.11:773][888]LogAIModule: Creating AISystem for world MainMENU
+[2023.05.10-12.43.11:839][888]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2023.05.10-12.43.11:857][888]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.10-12.43.11:857][888]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,298ms to complete.
+[2023.05.10-12.43.11:858][888]LogFileHelpers: Loading map 'MainMENU' took 1.327
+[2023.05.10-12.43.11:979][888]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.10-12.43.11:979][888]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/human/BP_HumanCtrl.BP_HumanCtrl
+[2023.05.10-12.43.11:979][888]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/human/Animations/NewBlendSpace.NewBlendSpace
+[2023.05.10-12.43.14:164][ 10]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.10-12.43.14:179][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.10-12.43.14:180][ 10]PIE: New page: PIE session: MainMENU (10 мая 2023 г., 18:43:14)
+[2023.05.10-12.43.14:181][ 10]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMENU
+[2023.05.10-12.43.14:187][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005361s)
+[2023.05.10-12.43.14:189][ 10]LogAIModule: Creating AISystem for world MainMENU
+[2023.05.10-12.43.14:191][ 10]LogPlayLevel: PIE: World Init took: (0.003760s)
+[2023.05.10-12.43.14:191][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMENU.MainMENU to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMENU.MainMENU (0.009623s)
+[2023.05.10-12.43.14:256][ 10]LogUObjectHash: Compacting FUObjectHashTables data took  10.21ms
+[2023.05.10-12.43.14:260][ 10]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.05.10-12.43.14:261][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.10-12.43.14:261][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.10-12.43.14:261][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.10-12.43.14:261][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.10-12.43.14:261][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.10-12.43.14:261][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.10-12.43.14:261][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.10-12.43.14:261][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.10-12.43.14:264][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.10-12.43.14:264][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.10-12.43.14:264][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.10-12.43.14:264][ 10]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.10-12.43.14:269][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.10-12.43.14:269][ 10]LogAudioMixer: Display: 1: FrontRight
+[2023.05.10-12.43.14:292][ 10]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.05.10-12.43.14:296][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.10-12.43.14:296][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.10-12.43.14:296][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.10-12.43.14:301][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.10-12.43.14:301][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.10-12.43.14:301][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.10-12.43.14:303][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.10-12.43.14:303][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.10-12.43.14:304][ 10]LogInit: FAudioDevice initialized.
+[2023.05.10-12.43.14:304][ 10]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMENU'.
+[2023.05.10-12.43.14:348][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.10-12.43.14:351][ 10]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.10-12.43.14:352][ 10]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMENU.MainMENU up for play (max tick rate 60) at 2023.05.10-15.43.14
+[2023.05.10-12.43.14:354][ 10]LogWorld: Bringing up level for play took: 0.001851
+[2023.05.10-12.43.14:356][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2023.05.10-12.43.14:374][ 10]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.43.14:374][ 10]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-12.43.14:403][ 10]PIE: Server logged in
+[2023.05.10-12.43.14:406][ 10]PIE: Play in editor total start time 0,229 seconds.
+[2023.05.10-12.43.53:362][329]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.10-12.43.53:381][329]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMENU
+[2023.05.10-12.43.53:412][329]LogWorld: UWorld::CleanupWorld for MainMENU, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-12.43.53:413][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.43.53:420][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.10-12.43.53:431][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-12.43.53:480][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.10-12.43.53:480][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.43.53:481][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.10-12.43.53:493][329]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2023.05.10-12.43.53:522][330]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.05.10-12.44.14:790][533]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.05.10-12.44.51:509][646]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.05.10-12.44.55:749][900]LogEditorTransaction: Undo Paste clipboard contents
+[2023.05.10-12.44.58:792][ 51]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.05.10-12.45.00:993][183]LogEditorTransaction: Undo Move Anchor
+[2023.05.10-12.45.38:070][216]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-12.45.38:070][216]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-12.47.21:750][313]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.05.10-12.48.28:223][112]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.10-12.49.16:905][298]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\torrent\brain (1).png)
+[2023.05.10-12.49.16:956][298]LogTexture: Display: Building textures: brain__1_ (OODLE_AutoDXT, 512X512)
+[2023.05.10-12.51.28:968][297]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\torrent\castle.png)
+[2023.05.10-12.51.28:975][297]LogTexture: Display: Building textures: castle (OODLE_AutoDXT, 512X512)
+[2023.05.10-12.51.34:450][609]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.05.10-12.52.57:850][ 99]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.05.10-12.54.34:451][435]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-12.54.36:473][441]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-12.54.38:572][447]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-12.54.39:073][448]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-12.54.39:831][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/widgets/MainMenu" FILE="../../../../Project XXX/Content/ThirdPersonBP/widgets/MainMenu.uasset" SILENT=true
+[2023.05.10-12.54.39:966][467]LogSavePackage: Moving '../../../../Project XXX/Saved/MainMenuD4C5B1894825D6BE5B811B80F0841011.tmp' to '../../../../Project XXX/Content/ThirdPersonBP/widgets/MainMenu.uasset'
+[2023.05.10-12.54.40:012][467]AssetCheck: New page: Asset Save: MainMenu
+[2023.05.10-12.54.40:012][467]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/widgets/MainMenu.MainMenu
+[2023.05.10-12.54.40:741][482]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-12.54.41:243][483]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-12.54.42:094][520]BlueprintLog: New page: Compile MainMenu
+[2023.05.10-12.54.42:420][520]LogUObjectHash: Compacting FUObjectHashTables data took  21.10ms
+[2023.05.10-12.54.43:086][523]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-12.54.45:008][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/widgets/MainMenu" FILE="../../../../Project XXX/Content/ThirdPersonBP/widgets/MainMenu.uasset" SILENT=true
+[2023.05.10-12.54.45:115][562]LogSavePackage: Moving '../../../../Project XXX/Saved/MainMenuC61FD7C042C077FFD49F25828426559F.tmp' to '../../../../Project XXX/Content/ThirdPersonBP/widgets/MainMenu.uasset'
+[2023.05.10-12.54.45:619][562]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-12.54.46:120][562]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-12.54.46:546][562]AssetCheck: New page: Asset Save: MainMenu
+[2023.05.10-12.54.46:546][562]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/widgets/MainMenu.MainMenu
+[2023.05.10-12.54.48:202][622]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-12.54.52:620][682]LogAudioMixer: Resetting audio stream to device id 
+[2023.05.10-12.54.52:665][682]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.10-12.54.52:665][682]LogAudioMixer: Display: 1: FrontRight
+[2023.05.10-12.54.53:800][686]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.05.40:399][701]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.05.43:570][701]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.05.43:570][701]LogAudioMixer: Resetting audio stream to device id 
+[2023.05.10-13.05.44:320][701]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.10-13.05.44:320][701]LogAudioMixer: Display: 1: FrontRight
+[2023.05.10-13.05.46:017][701]LogUObjectHash: Compacting FUObjectHashTables data took  48.92ms
+[2023.05.10-13.05.46:030][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MainMENU' took 1.112
+[2023.05.10-13.05.46:034][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game_Study_Pack/Achieves/brain__1_] ([1] browsable assets)...
+[2023.05.10-13.05.46:534][701]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.05.47:162][701]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Game_Study_Pack/Achieves/brain__1_.brain__1_]
+[2023.05.10-13.05.47:162][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Study_Pack/Achieves/brain__1_]
+[2023.05.10-13.05.47:163][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/brain__1_" FILE="../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/brain__1__Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.05.10-13.05.47:184][701]LogSavePackage: Moving '../../../../Project XXX/Saved/brain__1__Auto3FCAB16AA413EDD989D84BAA44F3BA1E8.tmp' to '../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/brain__1__Auto3.uasset'
+[2023.05.10-13.05.47:193][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game_Study_Pack/Achieves/castle] ([1] browsable assets)...
+[2023.05.10-13.05.47:201][701]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Game_Study_Pack/Achieves/castle.castle]
+[2023.05.10-13.05.47:201][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Study_Pack/Achieves/castle]
+[2023.05.10-13.05.47:201][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/castle" FILE="../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/castle_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.05.10-13.05.47:217][701]LogSavePackage: Moving '../../../../Project XXX/Saved/castle_Auto36FB366284234A31D493EDFB52859434A.tmp' to '../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/castle_Auto3.uasset'
+[2023.05.10-13.05.47:218][701]LogFileHelpers: Auto-saving content packages took 1.186
+[2023.05.10-13.05.47:303][702]LogAudioMixer: Resetting audio stream to device id 
+[2023.05.10-13.05.47:552][702]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.10-13.05.47:552][702]LogAudioMixer: Display: 1: FrontRight
+[2023.05.10-13.05.48:905][707]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.05.53:150][720]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-13.05.53:150][720]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-13.05.55:568][760]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.05.57:432][766]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.05.57:934][767]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.05.59:794][773]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.00:295][774]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.02:156][780]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.02:658][781]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.04:529][787]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.05:031][788]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.06:895][794]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.06:895][794]LogHttp: Warning: 000001DE7D456400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4EF423AE-477E-FF66-4659-8FA9FA7888AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fd7731684d027ba96a0011a91f163567%7C8ad7f9dce07e45648b2cf0273b81a58a%7C7876d04b-637d-4242-ac3c-969b4cb6c950&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.10-13.06.06:895][794]LogHttp: Warning: 000001DE7D456400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.05.10-13.06.06:895][794]LogHttp: Warning: 000001DE7D456400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1dd56273eb0 [can pipeline])
+[2023.05.10-13.06.06:895][794]LogHttp: Warning: 000001DE7D456400: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2023.05.10-13.06.06:895][794]LogHttp: Warning: 000001DE7D456400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.196.30.158) port 443 (#1))
+[2023.05.10-13.06.06:895][794]LogHttp: Warning: 000001DE7D456400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.05.10-13.06.06:895][794]LogHttp: Warning: 000001DE7D456400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.05.10-13.06.06:895][794]LogHttp: Warning: 000001DE7D456400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.05.10-13.06.06:895][794]LogHttp: Warning: 000001DE7D456400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.05.10-13.06.06:895][794]LogHttp: Warning: 000001DE7D456400: libcurl info message cache 7 (Closing connection 1)
+[2023.05.10-13.06.06:896][794]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4EF423AE-477E-FF66-4659-8FA9FA7888AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fd7731684d027ba96a0011a91f163567%7C8ad7f9dce07e45648b2cf0273b81a58a%7C7876d04b-637d-4242-ac3c-969b4cb6c950&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.10-13.06.07:396][795]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.09:264][801]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.09:765][802]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.11:628][808]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.12:130][809]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.13:991][815]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.14:493][816]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.16:355][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.16:856][823]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.06.33:818][874]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.10-13.08.32:539][228]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-13.08.32:539][228]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-13.15.23:640][780]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\torrent\graduate-cap.png)
+[2023.05.10-13.15.23:722][780]LogTexture: Display: Building textures: graduate-cap (OODLE_AutoDXT, 512X512)
+[2023.05.10-13.15.30:940][125]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.05.10-13.16.58:668][823]LogUObjectHash: Compacting FUObjectHashTables data took  39.50ms
+[2023.05.10-13.16.58:676][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MainMENU' took 0.436
+[2023.05.10-13.16.58:677][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/widgets/MainMenu] ([4] browsable assets)...
+[2023.05.10-13.16.58:678][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/widgets/MainMenu]
+[2023.05.10-13.16.58:678][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/widgets/MainMenu" FILE="../../../../Project XXX/Saved/Autosaves/Game/ThirdPersonBP/widgets/MainMenu_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.05.10-13.16.58:784][823]LogSavePackage: Moving '../../../../Project XXX/Saved/MainMenu_Auto4BB93ACB74FB0EB2D4CC1698A9B9CAC87.tmp' to '../../../../Project XXX/Saved/Autosaves/Game/ThirdPersonBP/widgets/MainMenu_Auto4.uasset'
+[2023.05.10-13.16.58:786][823]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game_Study_Pack/Achieves/graduate-cap] ([1] browsable assets)...
+[2023.05.10-13.16.58:793][823]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Game_Study_Pack/Achieves/graduate-cap.graduate-cap]
+[2023.05.10-13.16.58:793][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Study_Pack/Achieves/graduate-cap]
+[2023.05.10-13.16.58:798][823]LogSavePackage: Moving '../../../../Project XXX/Saved/graduate-cap_Auto43354F6EC46765380A736F4913709DF34.tmp' to '../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/graduate-cap_Auto4.uasset'
+[2023.05.10-13.16.58:799][823]LogFileHelpers: Auto-saving content packages took 0.123
+[2023.05.10-13.17.25:814][285]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\torrent\graduate-cap (1).png)
+[2023.05.10-13.17.25:822][285]LogTexture: Display: Building textures: graduate-cap__1_ (OODLE_AutoDXT, 512X512)
+[2023.05.10-13.17.53:708][189]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\torrent\brain (2).png)
+[2023.05.10-13.17.53:715][189]LogTexture: Display: Building textures: brain__2_ (OODLE_AutoDXT, 512X512)
+[2023.05.10-13.17.56:411][343]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2023.05.10-13.17.59:349][343]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.10-13.18.34:004][981]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\torrent\castle (1).png)
+[2023.05.10-13.18.34:011][981]LogTexture: Display: Building textures: castle__1_ (OODLE_AutoDXT, 512X512)
+[2023.05.10-13.18.39:718][306]Cmd: TRANSACTION UNDO
+[2023.05.10-13.18.39:719][306]LogEditorTransaction: Undo Edit Image
+[2023.05.10-13.19.38:733][657]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.10-13.20.49:513][919]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Game_Study_Pack/Achieves/Kolodec_Achieve.Kolodec_Achieve
+[2023.05.10-13.20.50:792][919]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.05.10-13.20.52:927][  1]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2023.05.10-13.21.44:585][ 57]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.10-13.22.03:510][ 46]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.10-13.22.22:770][ 38]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.10-13.23.14:214][648]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.05.10-13.23.18:859][894]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-13.23.18:859][894]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-13.26.15:053][337]BlueprintLog: New page: Compile Kolodec_Achieve
+[2023.05.10-13.26.15:272][337]LogUObjectHash: Compacting FUObjectHashTables data took  15.59ms
+[2023.05.10-13.27.04:624][809]BlueprintLog: New page: Compile Kolodec_Achieve
+[2023.05.10-13.27.04:698][809]LogUObjectHash: Compacting FUObjectHashTables data took  10.90ms
+[2023.05.10-13.27.17:298][532]LogUObjectHash: Compacting FUObjectHashTables data took   9.38ms
+[2023.05.10-13.27.19:039][532]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.10-13.27.24:154][792]LogSlate: Window 'Kolodec_Achieve' being destroyed
+[2023.05.10-13.27.27:336][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.10-13.27.30:976][975]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.10-13.27.31:413][975]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-13.27.31:415][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-13.27.31:472][975]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-13.27.31:472][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-13.27.31:954][975]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Game_Study_Pack/Achieves/brain.brain
+	Asset Name: /Game/Game_Study_Pack/Achieves/brain__1_.brain__1_
+[2023.05.10-13.27.42:634][975]LogUObjectHash: Compacting FUObjectHashTables data took  20.13ms
+[2023.05.10-13.27.42:769][975]LogUObjectHash: Compacting FUObjectHashTables data took   9.40ms
+[2023.05.10-13.27.42:820][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.10-13.27.43:113][975]SourceControl: Error: Updated 0 paths from the index
+[2023.05.10-13.27.43:313][975]SourceControl: rm 'Content/Game_Study_Pack/Achieves/brain.uasset'
+[2023.05.10-13.27.46:749][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.10-13.27.46:756][131]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MainMENU' took 0.063
+[2023.05.10-13.27.46:763][131]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game_Study_Pack/Achieves/Kolodec_Achieve] ([2] browsable assets)...
+[2023.05.10-13.27.46:763][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Study_Pack/Achieves/Kolodec_Achieve]
+[2023.05.10-13.27.46:805][131]LogSavePackage: Moving '../../../../Project XXX/Saved/Kolodec_Achieve_Auto5EFFD04F3406CF9545F34FFA6A6C92436.tmp' to '../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/Kolodec_Achieve_Auto5.uasset'
+[2023.05.10-13.27.46:807][131]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game_Study_Pack/Achieves/brain__2_] ([1] browsable assets)...
+[2023.05.10-13.27.46:817][131]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Game_Study_Pack/Achieves/brain__2_.brain__2_]
+[2023.05.10-13.27.46:817][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Study_Pack/Achieves/brain__2_]
+[2023.05.10-13.27.46:818][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/brain__2_" FILE="../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/brain__2__Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.05.10-13.27.46:827][131]LogSavePackage: Moving '../../../../Project XXX/Saved/brain__2__Auto5496EF6DD4A1B1A284D3DA69DEFDC9D9F.tmp' to '../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/brain__2__Auto5.uasset'
+[2023.05.10-13.27.46:828][131]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/widgets/MainMenu] ([4] browsable assets)...
+[2023.05.10-13.27.46:828][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/widgets/MainMenu]
+[2023.05.10-13.27.46:828][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/widgets/MainMenu" FILE="../../../../Project XXX/Saved/Autosaves/Game/ThirdPersonBP/widgets/MainMenu_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.05.10-13.27.46:935][131]LogSavePackage: Moving '../../../../Project XXX/Saved/MainMenu_Auto5A13A64D147D6785EE04E648EA48BE519.tmp' to '../../../../Project XXX/Saved/Autosaves/Game/ThirdPersonBP/widgets/MainMenu_Auto5.uasset'
+[2023.05.10-13.27.46:937][131]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game_Study_Pack/Achieves/castle__1_] ([1] browsable assets)...
+[2023.05.10-13.27.46:943][131]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Game_Study_Pack/Achieves/castle__1_.castle__1_]
+[2023.05.10-13.27.46:943][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Study_Pack/Achieves/castle__1_]
+[2023.05.10-13.27.46:943][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/castle__1_" FILE="../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/castle__1__Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.05.10-13.27.46:949][131]LogSavePackage: Moving '../../../../Project XXX/Saved/castle__1__Auto533CBAFA444405FE3D73B1B831588530F.tmp' to '../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/castle__1__Auto5.uasset'
+[2023.05.10-13.27.46:950][131]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game_Study_Pack/Achieves/graduate-cap__1_] ([1] browsable assets)...
+[2023.05.10-13.27.46:957][131]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Game_Study_Pack/Achieves/graduate-cap__1_.graduate-cap__1_]
+[2023.05.10-13.27.46:957][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Study_Pack/Achieves/graduate-cap__1_]
+[2023.05.10-13.27.46:962][131]LogSavePackage: Moving '../../../../Project XXX/Saved/graduate-cap__1__Auto5E598E73E457239576FEAD393A99BDE8C.tmp' to '../../../../Project XXX/Saved/Autosaves/Game/Game_Study_Pack/Achieves/graduate-cap__1__Auto5.uasset'
+[2023.05.10-13.27.46:963][131]LogFileHelpers: Auto-saving content packages took 0.206
+[2023.05.10-13.27.52:292][410]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2023.05.10-13.27.54:495][410]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.10-13.27.54:709][410]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Game_Study_Pack/Achieves/castle.castle
+[2023.05.10-13.27.55:355][410]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2023.05.10-13.27.59:320][624]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2023.05.10-13.28.00:318][624]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.10-13.28.00:528][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2023.05.10-13.28.06:177][934]LogContentBrowser: Deferred new asset file creation: Kolodec_Achieve1
+[2023.05.10-13.28.06:203][934]LogContentBrowser: Creating deferred item: Kolodec_Achieve1
+[2023.05.10-13.28.10:961][220]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-13.28.10:961][220]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.10-13.28.14:245][417]LogContentBrowser: Attempting asset rename: Kolodec_Achieve1 -> Castle_Achieve1
+[2023.05.10-13.28.14:448][417]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2023.05.10-13.28.14:604][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/Castle_Achieve1" FILE="../../../../Project XXX/Content/Game_Study_Pack/Achieves/Castle_Achieve1.uasset" SILENT=true
+[2023.05.10-13.28.14:611][417]LogSavePackage: Moving '../../../../Project XXX/Saved/Castle_Achieve1BF126A7F4CB939BE688615832078AF9D.tmp' to '../../../../Project XXX/Content/Game_Study_Pack/Achieves/Castle_Achieve1.uasset'
+[2023.05.10-13.28.15:066][417]LogContentBrowser: End creating deferred item Kolodec_Achieve1
+[2023.05.10-13.28.15:080][417]AssetCheck: New page: Asset Save: Castle_Achieve1
+[2023.05.10-13.28.15:080][417]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game_Study_Pack/Achieves/Castle_Achieve1.Castle_Achieve1
+[2023.05.10-13.28.49:691][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/Castle_Achieve1" FILE="../../../../Project XXX/Content/Game_Study_Pack/Achieves/Castle_Achieve1.uasset" SILENT=true
+[2023.05.10-13.28.49:699][398]LogSavePackage: Moving '../../../../Project XXX/Saved/Castle_Achieve19E6197EE43577D63B65024975B9EAB86.tmp' to '../../../../Project XXX/Content/Game_Study_Pack/Achieves/Castle_Achieve1.uasset'
+[2023.05.10-13.28.49:998][398]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2023.05.10-13.28.50:059][398]AssetCheck: New page: Asset Save: Castle_Achieve1
+[2023.05.10-13.28.50:059][398]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game_Study_Pack/Achieves/Castle_Achieve1.Castle_Achieve1
+[2023.05.10-13.28.58:000][844]LogContentBrowser: Attempting asset rename: Castle_Achieve1 -> Castle_Achieve
+[2023.05.10-13.28.58:808][844]LogMetaData: Removing '/Game/Game_Study_Pack/Achieves/Castle_Achieve.SKEL_Castle_Achieve_C' ref from Metadata '/Game/Game_Study_Pack/Achieves/Castle_Achieve1.PackageMetaData'
+[2023.05.10-13.28.58:808][844]LogMetaData: Removing '/Game/Game_Study_Pack/Achieves/Castle_Achieve.Castle_Achieve_C' ref from Metadata '/Game/Game_Study_Pack/Achieves/Castle_Achieve1.PackageMetaData'
+[2023.05.10-13.28.58:808][844]LogMetaData: Removing '/Game/Game_Study_Pack/Achieves/Castle_Achieve.SKEL_Castle_Achieve_C:PreConstruct' ref from Metadata '/Game/Game_Study_Pack/Achieves/Castle_Achieve1.PackageMetaData'
+[2023.05.10-13.28.58:808][844]LogMetaData: Removing '/Game/Game_Study_Pack/Achieves/Castle_Achieve.SKEL_Castle_Achieve_C:Construct' ref from Metadata '/Game/Game_Study_Pack/Achieves/Castle_Achieve1.PackageMetaData'
+[2023.05.10-13.28.58:808][844]LogMetaData: Removing '/Game/Game_Study_Pack/Achieves/Castle_Achieve.SKEL_Castle_Achieve_C:Tick' ref from Metadata '/Game/Game_Study_Pack/Achieves/Castle_Achieve1.PackageMetaData'
+[2023.05.10-13.28.58:867][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/Castle_Achieve" FILE="../../../../Project XXX/Content/Game_Study_Pack/Achieves/Castle_Achieve.uasset" SILENT=true
+[2023.05.10-13.28.58:876][844]LogSavePackage: Moving '../../../../Project XXX/Saved/Castle_Achieve1FF105674710C39D086247B29C8520F8.tmp' to '../../../../Project XXX/Content/Game_Study_Pack/Achieves/Castle_Achieve.uasset'
+[2023.05.10-13.28.59:467][844]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2023.05.10-13.28.59:532][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.05.10-13.28.59:584][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.05.10-13.28.59:766][844]SourceControl: rm 'Content/Game_Study_Pack/Achieves/Castle_Achieve1.uasset'
+[2023.05.10-13.28.59:838][844]AssetCheck: New page: Asset Save: Castle_Achieve
+[2023.05.10-13.28.59:838][844]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game_Study_Pack/Achieves/Castle_Achieve.Castle_Achieve
+[2023.05.10-13.29.25:850][363]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2023.05.10-13.29.27:219][363]LogSlate: Window 'Save Content' being destroyed
+[2023.05.10-13.29.27:459][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/brain__2_" FILE="../../../../Project XXX/Content/Game_Study_Pack/Achieves/brain__2_.uasset" SILENT=true
+[2023.05.10-13.29.27:468][363]LogSavePackage: Moving '../../../../Project XXX/Saved/brain__2_EC50ECD14B7E5E97E47748AD2D9A9732.tmp' to '../../../../Project XXX/Content/Game_Study_Pack/Achieves/brain__2_.uasset'
+[2023.05.10-13.29.27:652][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/castle__1_" FILE="../../../../Project XXX/Content/Game_Study_Pack/Achieves/castle__1_.uasset" SILENT=true
+[2023.05.10-13.29.27:661][363]LogSavePackage: Moving '../../../../Project XXX/Saved/castle__1_CB7819524DD0E579E3402186DA774D50.tmp' to '../../../../Project XXX/Content/Game_Study_Pack/Achieves/castle__1_.uasset'
+[2023.05.10-13.29.27:868][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/graduate-cap__1_" FILE="../../../../Project XXX/Content/Game_Study_Pack/Achieves/graduate-cap__1_.uasset" SILENT=true
+[2023.05.10-13.29.27:876][363]LogSavePackage: Moving '../../../../Project XXX/Saved/graduate-cap__1_685E98394277035C9FC5CFBFE4D423D0.tmp' to '../../../../Project XXX/Content/Game_Study_Pack/Achieves/graduate-cap__1_.uasset'
+[2023.05.10-13.29.28:068][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Study_Pack/Achieves/Kolodec_Achieve" FILE="../../../../Project XXX/Content/Game_Study_Pack/Achieves/Kolodec_Achieve.uasset" SILENT=true
+[2023.05.10-13.29.28:076][363]LogSavePackage: Moving '../../../../Project XXX/Saved/Kolodec_Achieve194F282444BAA3EDB7A2B48635FF40A1.tmp' to '../../../../Project XXX/Content/Game_Study_Pack/Achieves/Kolodec_Achieve.uasset'
+[2023.05.10-13.29.28:077][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/widgets/MainMenu" FILE="../../../../Project XXX/Content/ThirdPersonBP/widgets/MainMenu.uasset" SILENT=true
+[2023.05.10-13.29.28:153][363]LogSavePackage: Moving '../../../../Project XXX/Saved/MainMenuDAEF741947FD368D28A7259FE92FAD7D.tmp' to '../../../../Project XXX/Content/ThirdPersonBP/widgets/MainMenu.uasset'
+[2023.05.10-13.29.30:577][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.30:584][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.30:671][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.30:671][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.30:671][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.30:672][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.31:387][363]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.05.10-13.29.31:389][363]Cmd: MAP LOAD FILE="../../../../Project XXX/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.10-13.29.31:390][363]LightingResults: New page: Lighting Build
+[2023.05.10-13.29.31:391][363]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2023.05.10-13.29.31:444][363]LogWorld: UWorld::CleanupWorld for MainMENU, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-13.29.31:449][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-13.29.31:453][363]MapCheck: New page: Map Check
+[2023.05.10-13.29.31:453][363]LightingResults: New page: Lighting Build
+[2023.05.10-13.29.31:677][363]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.10-13.29.31:775][363]LogUObjectHash: Compacting FUObjectHashTables data took  14.39ms
+[2023.05.10-13.29.31:825][363]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.05.10-13.29.33:756][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.33:756][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.33:830][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.33:831][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.33:832][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.33:832][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.10-13.29.35:047][363]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2023.05.10-13.29.35:047][363]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.10-13.29.35:494][363]LogUObjectHash: Compacting FUObjectHashTables data took   9.48ms
+[2023.05.10-13.29.35:567][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.10-13.29.35:569][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,108ms to complete.
+[2023.05.10-13.29.35:569][363]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.181
+[2023.05.10-13.29.35:665][363]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.10-13.29.35:665][363]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game_Study_Pack/Achieves/Kolodec_Achieve.Kolodec_Achieve
+[2023.05.10-13.29.35:668][363]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/widgets/MainMenu.MainMenu
+[2023.05.10-13.29.35:677][363]LogContentValidation: Display: Validating Texture2D /Game/Game_Study_Pack/Achieves/brain__2_.brain__2_
+[2023.05.10-13.29.35:677][363]LogContentValidation: Display: Validating Texture2D /Game/Game_Study_Pack/Achieves/castle__1_.castle__1_
+[2023.05.10-13.29.35:677][363]LogContentValidation: Display: Validating Texture2D /Game/Game_Study_Pack/Achieves/graduate-cap__1_.graduate-cap__1_
+[2023.05.10-13.29.36:230][363]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2023.05.10-13.29.36:231][363]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 304533504
+	 AvailableVirtual 27611136
+	     UsedPhysical 1899319296
+	 PeakUsedPhysical 3243864064
+	      UsedVirtual 8201846784
+	  PeakUsedVirtual 8233492480
+[2023.05.10-13.29.36:231][363]Allocator Stats for TBB: (not implemented)
+[2023.05.10-13.29.36:232][363]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.05.10-13.29.36:234][363]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2023.05.10-13.29.39:191][363]LogWindows: Error: === Critical error: ===
+[2023.05.10-13.29.39:191][363]LogWindows: Error: 
+[2023.05.10-13.29.39:191][363]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMemory.cpp] [Line: 197] 
+[2023.05.10-13.29.39:191][363]LogWindows: Error: Ran out of memory allocating 26357520 bytes with alignment 0
+[2023.05.10-13.29.39:191][363]LogWindows: Error: 
+[2023.05.10-13.29.39:191][363]LogWindows: Error: 
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff85a48cb69 KERNELBASE.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff817fe0216 UE4Editor-Core.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff817fe4218 UE4Editor-Core.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff817d0242d UE4Editor-Core.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff817ab47ba UE4Editor-Core.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff817b6d926 UE4Editor-Core.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff817b6da63 UE4Editor-Core.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff82457e6b3 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff8245f02f7 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff8245f50bd UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff8245b2f8d UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff82454b234 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff8245347da UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff8245323f3 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff8245731e6 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:191][363]LogWindows: Error: [Callstack] 0x00007ff82453c1a2 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ff824573466 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ff82458c01a UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ffff4c7d0f7 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ffff2bf0862 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ffff34f2ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ff7e25787a0 UE4Editor.exe!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ff7e2590fcc UE4Editor.exe!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ff7e25910ba UE4Editor.exe!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ff7e25940dd UE4Editor.exe!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ff7e25a5984 UE4Editor.exe!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ff7e25a853a UE4Editor.exe!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ff85b627604 KERNEL32.DLL!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: [Callstack] 0x00007ff85c9c26a1 ntdll.dll!UnknownFunction []
+[2023.05.10-13.29.39:192][363]LogWindows: Error: 
+[2023.05.10-13.29.39:213][363]LogExit: Executing StaticShutdownAfterError
+[2023.05.10-13.29.39:662][363]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.05.10-13.29.39:662][363]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.05.10-13.29.39:662][363]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.05.10-13.29.39:668][363]Log file closed, 05/10/23 16:29:39
