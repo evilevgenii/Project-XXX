@@ -4688,3 +4688,932 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.05.15-10.26.33:101][664]SourceControl: Commited [main d44837f] Продолжаю удалять лишнее с разных карт, чтобы их окончательно разделить.
 [2023.05.15-10.26.33:119][665]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2023.05.15-10.26.33:119][665]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.05.15-10.27.06:409][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (пень89)
+[2023.05.15-10.27.07:078][236]Cmd: DELETE
+[2023.05.15-10.27.07:078][236]Cmd: ACTOR DELETE
+[2023.05.15-10.27.07:158][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.07:167][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.15-10.27.07:169][236]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2023.05.15-10.27.07:651][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (куст23_23)
+[2023.05.15-10.27.08:010][332]Cmd: DELETE
+[2023.05.15-10.27.08:010][332]Cmd: ACTOR DELETE
+[2023.05.15-10.27.08:091][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.08:100][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.15-10.27.08:101][332]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2023.05.15-10.27.10:317][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (колья18)
+[2023.05.15-10.27.10:991][617]Cmd: DELETE
+[2023.05.15-10.27.10:991][617]Cmd: ACTOR DELETE
+[2023.05.15-10.27.11:070][617]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.11:079][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.15-10.27.11:080][617]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2023.05.15-10.27.11:713][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (колья17)
+[2023.05.15-10.27.11:966][707]Cmd: DELETE
+[2023.05.15-10.27.11:966][707]Cmd: ACTOR DELETE
+[2023.05.15-10.27.12:045][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.12:054][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.27.12:054][707]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2023.05.15-10.27.12:688][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (колья16)
+[2023.05.15-10.27.12:965][800]Cmd: DELETE
+[2023.05.15-10.27.12:965][800]Cmd: ACTOR DELETE
+[2023.05.15-10.27.13:045][800]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.13:054][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.15-10.27.13:054][800]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2023.05.15-10.27.13:768][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (колья15)
+[2023.05.15-10.27.14:059][905]Cmd: DELETE
+[2023.05.15-10.27.14:060][905]Cmd: ACTOR DELETE
+[2023.05.15-10.27.14:140][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.14:149][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.15-10.27.14:149][905]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2023.05.15-10.27.16:731][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка379)
+[2023.05.15-10.27.56:575][145]Cmd: DELETE
+[2023.05.15-10.27.56:575][145]Cmd: ACTOR DELETE
+[2023.05.15-10.27.57:195][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:195][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:196][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:196][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:196][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:196][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:196][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:196][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:197][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:197][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:197][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:197][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:197][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:197][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:197][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:198][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:198][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:198][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:198][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:198][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:198][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:199][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:199][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:199][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:199][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:199][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:199][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:199][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:200][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:200][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:200][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:200][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:200][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:200][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:200][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:201][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:201][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:201][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:201][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:201][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:201][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:201][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:202][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:202][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:202][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:202][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:202][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:202][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:202][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:203][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:203][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:203][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:203][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:203][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:203][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:203][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:204][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:204][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:204][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:204][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:204][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:204][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:205][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:205][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:205][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:205][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:205][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:205][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:205][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:206][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:206][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:206][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:206][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:206][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:206][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:206][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:207][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:207][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:207][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:207][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:207][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:207][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:208][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:208][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:208][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:208][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:208][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:208][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:208][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:209][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:209][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:209][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:209][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:209][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:209][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:209][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:210][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:210][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:210][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:210][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:210][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:210][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:210][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:211][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:211][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:211][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:211][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:211][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:211][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:211][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:212][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:212][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:212][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:212][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:212][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:212][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:213][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:213][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:213][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:213][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:213][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:213][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:213][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:214][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:214][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:214][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:214][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:214][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:214][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:214][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:215][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:215][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:215][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:215][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:215][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:215][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:215][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:216][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:216][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:216][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:216][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:216][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:216][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:216][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:217][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:217][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:217][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:217][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:217][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:217][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:217][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:218][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:218][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:218][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:218][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:218][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:218][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:218][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:219][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:219][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:219][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:219][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:219][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:219][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:220][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:220][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:220][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:220][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:220][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:220][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:220][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:221][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:221][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:221][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:221][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:221][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:221][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:222][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:222][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:222][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:222][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:222][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:222][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:222][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:223][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:223][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:223][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:223][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:223][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:223][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:223][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:224][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:224][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:224][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:224][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:224][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:224][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:224][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:225][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:225][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:225][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:225][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:225][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:225][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:226][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:226][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:226][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:226][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:226][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:226][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:226][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:227][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:227][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:227][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:227][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:227][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:227][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:227][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:228][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:228][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:228][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:228][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:228][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:228][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:228][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:229][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:229][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:229][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:229][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:229][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:229][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:229][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:230][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:230][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:230][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:230][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:230][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:230][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:230][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:231][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:231][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:231][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:231][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:231][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:231][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:231][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:232][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:232][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:232][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:232][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:232][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:232][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:233][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:233][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:233][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:233][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:233][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:233][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:233][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:234][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:234][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:234][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:234][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:234][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:234][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:234][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:235][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:235][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:235][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:235][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:235][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:235][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:235][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:236][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:236][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:236][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:236][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:236][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:236][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:236][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:237][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:237][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:237][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:237][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:237][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:237][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:238][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:238][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:238][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:238][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:238][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:238][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:238][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:239][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:239][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:239][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:239][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:239][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:239][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:239][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:240][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:240][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:240][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:240][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:240][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:240][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:240][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:241][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:241][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:241][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:241][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:241][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:241][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:241][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:242][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:242][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:242][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:242][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:242][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:242][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:242][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:243][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:243][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:243][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:243][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:243][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:243][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:243][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:244][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:244][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:244][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:244][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:244][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:244][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:244][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:245][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:245][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:245][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:245][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:245][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:245][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:246][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:246][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:246][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:246][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:246][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:246][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:246][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:247][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:247][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:247][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:247][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:247][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:247][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:247][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:248][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:248][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:248][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:248][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:248][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:248][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:248][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:249][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:249][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:249][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:249][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:249][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:249][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:249][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:250][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:250][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:250][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:250][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:250][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:250][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:251][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:251][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:251][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:251][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:251][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:251][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:251][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:252][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:252][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:252][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:252][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:252][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:252][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:252][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:253][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:253][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:253][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:253][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:253][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:253][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:253][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:254][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:254][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:254][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:254][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:254][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:254][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:254][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:255][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:255][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:255][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:255][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:255][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:255][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:256][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:256][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:256][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:256][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:256][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:256][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:256][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:257][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:257][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:257][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:257][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:257][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:257][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:257][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:258][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:258][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:258][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:258][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:258][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:258][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:258][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:259][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:259][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:259][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:259][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:259][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:259][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:260][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:260][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:260][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:260][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:260][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:260][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:260][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:261][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:261][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:261][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:261][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:261][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:261][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:261][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:262][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:262][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:262][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:262][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:262][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:262][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:262][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:262][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:262][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:262][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:264][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:264][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:264][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:264][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:264][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:264][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:264][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:264][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:264][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:264][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:265][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:265][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:265][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:265][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:265][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:265][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:265][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:266][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:266][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:266][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:266][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:266][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:266][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:266][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:267][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:267][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:267][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:267][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:267][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:267][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:267][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:268][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:268][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.27.57:276][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.05.15-10.27.57:278][145]LogEditorActor: Deleted 493 Actors (0.703 secs)
+[2023.05.15-10.27.59:414][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка361)
+[2023.05.15-10.28.00:534][485]Cmd: DELETE
+[2023.05.15-10.28.00:534][485]Cmd: ACTOR DELETE
+[2023.05.15-10.28.00:610][485]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.00:619][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.15-10.28.00:620][485]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2023.05.15-10.28.01:158][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка363)
+[2023.05.15-10.28.01:389][573]Cmd: DELETE
+[2023.05.15-10.28.01:389][573]Cmd: ACTOR DELETE
+[2023.05.15-10.28.01:464][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.01:473][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.01:473][573]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.05.15-10.28.01:848][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка362)
+[2023.05.15-10.28.02:095][643]Cmd: DELETE
+[2023.05.15-10.28.02:095][643]Cmd: ACTOR DELETE
+[2023.05.15-10.28.02:170][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.02:179][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.15-10.28.02:179][643]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.05.15-10.28.02:643][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка360)
+[2023.05.15-10.28.02:892][724]Cmd: DELETE
+[2023.05.15-10.28.02:892][724]Cmd: ACTOR DELETE
+[2023.05.15-10.28.02:966][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.02:975][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.02:976][724]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.05.15-10.28.03:280][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка364)
+[2023.05.15-10.28.03:502][783]Cmd: DELETE
+[2023.05.15-10.28.03:502][783]Cmd: ACTOR DELETE
+[2023.05.15-10.28.03:578][783]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.03:586][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.15-10.28.03:587][783]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.05.15-10.28.03:886][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка368)
+[2023.05.15-10.28.04:025][831]Cmd: DELETE
+[2023.05.15-10.28.04:025][831]Cmd: ACTOR DELETE
+[2023.05.15-10.28.04:101][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.04:110][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.15-10.28.04:110][831]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2023.05.15-10.28.04:459][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка365)
+[2023.05.15-10.28.04:590][884]Cmd: DELETE
+[2023.05.15-10.28.04:590][884]Cmd: ACTOR DELETE
+[2023.05.15-10.28.04:665][884]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.04:674][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.15-10.28.04:674][884]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.05.15-10.28.04:964][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка372)
+[2023.05.15-10.28.05:127][934]Cmd: DELETE
+[2023.05.15-10.28.05:128][934]Cmd: ACTOR DELETE
+[2023.05.15-10.28.05:201][934]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.05:210][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.05:211][934]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.05.15-10.28.05:449][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка371)
+[2023.05.15-10.28.05:637][981]Cmd: DELETE
+[2023.05.15-10.28.05:637][981]Cmd: ACTOR DELETE
+[2023.05.15-10.28.05:712][981]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.05:721][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.15-10.28.05:722][981]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2023.05.15-10.28.05:929][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка370)
+[2023.05.15-10.28.06:101][ 22]Cmd: DELETE
+[2023.05.15-10.28.06:101][ 22]Cmd: ACTOR DELETE
+[2023.05.15-10.28.06:177][ 22]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.06:187][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.15-10.28.06:187][ 22]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2023.05.15-10.28.06:470][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка367)
+[2023.05.15-10.28.06:634][ 71]Cmd: DELETE
+[2023.05.15-10.28.06:634][ 71]Cmd: ACTOR DELETE
+[2023.05.15-10.28.06:710][ 71]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.06:720][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.06:720][ 71]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2023.05.15-10.28.06:953][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка369)
+[2023.05.15-10.28.07:216][126]Cmd: DELETE
+[2023.05.15-10.28.07:216][126]Cmd: ACTOR DELETE
+[2023.05.15-10.28.07:292][126]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.07:302][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.07:302][126]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2023.05.15-10.28.07:523][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка373)
+[2023.05.15-10.28.07:946][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка366)
+[2023.05.15-10.28.08:309][239]Cmd: DELETE
+[2023.05.15-10.28.08:309][239]Cmd: ACTOR DELETE
+[2023.05.15-10.28.08:384][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.08:394][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.15-10.28.08:394][239]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2023.05.15-10.28.08:669][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка373)
+[2023.05.15-10.28.08:840][288]Cmd: DELETE
+[2023.05.15-10.28.08:840][288]Cmd: ACTOR DELETE
+[2023.05.15-10.28.08:915][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.08:924][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.15-10.28.08:925][288]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2023.05.15-10.28.09:165][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка374)
+[2023.05.15-10.28.09:313][330]Cmd: DELETE
+[2023.05.15-10.28.09:313][330]Cmd: ACTOR DELETE
+[2023.05.15-10.28.09:387][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.09:397][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.15-10.28.09:398][330]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2023.05.15-10.28.09:663][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка376)
+[2023.05.15-10.28.09:785][372]Cmd: DELETE
+[2023.05.15-10.28.09:785][372]Cmd: ACTOR DELETE
+[2023.05.15-10.28.09:859][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.09:870][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.09:871][372]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2023.05.15-10.28.10:125][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка377)
+[2023.05.15-10.28.10:290][418]Cmd: DELETE
+[2023.05.15-10.28.10:290][418]Cmd: ACTOR DELETE
+[2023.05.15-10.28.10:365][418]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.10:374][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.10:375][418]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.05.15-10.28.11:187][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка375)
+[2023.05.15-10.28.11:335][528]Cmd: DELETE
+[2023.05.15-10.28.11:335][528]Cmd: ACTOR DELETE
+[2023.05.15-10.28.11:410][528]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.11:421][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.15-10.28.11:421][528]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2023.05.15-10.28.11:685][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (плитка378)
+[2023.05.15-10.28.11:808][570]Cmd: DELETE
+[2023.05.15-10.28.11:808][570]Cmd: ACTOR DELETE
+[2023.05.15-10.28.11:883][570]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.11:894][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.15-10.28.11:895][570]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2023.05.15-10.28.12:318][620]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.05.15-10.28.12:591][649]Cmd: DELETE
+[2023.05.15-10.28.12:591][649]Cmd: ACTOR DELETE
+[2023.05.15-10.28.12:672][649]LogEditorActor: Deleted Actor: Landscape
+[2023.05.15-10.28.12:875][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.15-10.28.12:878][649]LogEditorActor: Deleted 1 Actors (0.286 secs)
+[2023.05.15-10.28.14:411][811]Cmd: TRANSACTION UNDO
+[2023.05.15-10.28.14:411][811]LogEditorTransaction: Undo Delete Actors
+[2023.05.15-10.28.24:896][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kamenmod344)
+[2023.05.15-10.28.25:544][397]Cmd: DELETE
+[2023.05.15-10.28.25:544][397]Cmd: ACTOR DELETE
+[2023.05.15-10.28.25:633][397]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.25:647][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.15-10.28.25:650][397]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2023.05.15-10.28.26:180][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kamenmod358)
+[2023.05.15-10.28.26:305][471]Cmd: DELETE
+[2023.05.15-10.28.26:305][471]Cmd: ACTOR DELETE
+[2023.05.15-10.28.26:394][471]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.26:406][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.15-10.28.26:406][471]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2023.05.15-10.28.26:878][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (пень48)
+[2023.05.15-10.28.27:163][557]Cmd: DELETE
+[2023.05.15-10.28.27:163][557]Cmd: ACTOR DELETE
+[2023.05.15-10.28.27:252][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.27:267][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.15-10.28.27:268][557]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2023.05.15-10.28.28:019][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (БревноЛежит2_Cylinder100)
+[2023.05.15-10.28.28:153][657]Cmd: DELETE
+[2023.05.15-10.28.28:153][657]Cmd: ACTOR DELETE
+[2023.05.15-10.28.28:242][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.28:254][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.28:255][657]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2023.05.15-10.28.28:626][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (new_rock_30)
+[2023.05.15-10.28.28:785][715]Cmd: DELETE
+[2023.05.15-10.28.28:785][715]Cmd: ACTOR DELETE
+[2023.05.15-10.28.28:874][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.28:885][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.15-10.28.28:886][715]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2023.05.15-10.28.29:428][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (корни_Cube12)
+[2023.05.15-10.28.29:587][794]Cmd: DELETE
+[2023.05.15-10.28.29:587][794]Cmd: ACTOR DELETE
+[2023.05.15-10.28.29:677][794]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.29:686][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.29:687][794]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2023.05.15-10.28.30:021][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kamenmod357)
+[2023.05.15-10.28.30:206][851]Cmd: DELETE
+[2023.05.15-10.28.30:206][851]Cmd: ACTOR DELETE
+[2023.05.15-10.28.30:295][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.30:308][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.30:309][851]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2023.05.15-10.28.30:780][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kamenmod339)
+[2023.05.15-10.28.30:928][921]Cmd: DELETE
+[2023.05.15-10.28.30:928][921]Cmd: ACTOR DELETE
+[2023.05.15-10.28.31:017][921]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.31:028][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.15-10.28.31:028][921]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2023.05.15-10.28.31:428][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (пень50)
+[2023.05.15-10.28.31:554][979]Cmd: DELETE
+[2023.05.15-10.28.31:554][979]Cmd: ACTOR DELETE
+[2023.05.15-10.28.31:644][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.31:656][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.15-10.28.31:656][979]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2023.05.15-10.28.32:406][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kamenmod340)
+[2023.05.15-10.28.32:791][110]Cmd: DELETE
+[2023.05.15-10.28.32:791][110]Cmd: ACTOR DELETE
+[2023.05.15-10.28.32:881][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.32:894][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.32:895][110]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2023.05.15-10.28.33:324][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (пень56)
+[2023.05.15-10.28.33:492][177]Cmd: DELETE
+[2023.05.15-10.28.33:492][177]Cmd: ACTOR DELETE
+[2023.05.15-10.28.33:581][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.33:594][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.15-10.28.33:595][177]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2023.05.15-10.28.34:112][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (пень55)
+[2023.05.15-10.28.34:187][243]Cmd: DELETE
+[2023.05.15-10.28.34:187][243]Cmd: ACTOR DELETE
+[2023.05.15-10.28.34:276][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.34:288][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.15-10.28.34:289][243]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2023.05.15-10.28.34:895][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (пень53)
+[2023.05.15-10.28.35:027][327]Cmd: DELETE
+[2023.05.15-10.28.35:027][327]Cmd: ACTOR DELETE
+[2023.05.15-10.28.35:116][327]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.35:129][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.15-10.28.35:129][327]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2023.05.15-10.28.35:930][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kamenmod350)
+[2023.05.15-10.28.36:190][449]Cmd: DELETE
+[2023.05.15-10.28.36:190][449]Cmd: ACTOR DELETE
+[2023.05.15-10.28.36:279][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.36:292][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.15-10.28.36:293][449]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2023.05.15-10.28.36:664][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (new_rock_33)
+[2023.05.15-10.28.36:833][509]Cmd: DELETE
+[2023.05.15-10.28.36:833][509]Cmd: ACTOR DELETE
+[2023.05.15-10.28.36:922][509]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.36:935][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.15-10.28.36:935][509]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2023.05.15-10.28.37:524][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (бочка)
+[2023.05.15-10.28.37:744][601]Cmd: DELETE
+[2023.05.15-10.28.37:744][601]Cmd: ACTOR DELETE
+[2023.05.15-10.28.37:833][601]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.37:846][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.15-10.28.37:847][601]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2023.05.15-10.28.38:363][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (знак_5)
+[2023.05.15-10.28.38:615][688]Cmd: DELETE
+[2023.05.15-10.28.38:615][688]Cmd: ACTOR DELETE
+[2023.05.15-10.28.38:703][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.38:717][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.15-10.28.38:718][688]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2023.05.15-10.28.39:226][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (знак_4)
+[2023.05.15-10.28.39:502][777]Cmd: DELETE
+[2023.05.15-10.28.39:502][777]Cmd: ACTOR DELETE
+[2023.05.15-10.28.39:591][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.39:604][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.15-10.28.39:605][777]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2023.05.15-10.28.39:976][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kamenmod325)
+[2023.05.15-10.28.40:144][837]Cmd: DELETE
+[2023.05.15-10.28.40:144][837]Cmd: ACTOR DELETE
+[2023.05.15-10.28.40:233][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.40:248][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.05.15-10.28.40:248][837]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2023.05.15-10.28.48:378][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ПЕЩЕРА_peshera)
+[2023.05.15-10.28.50:726][  3]Cmd: DELETE
+[2023.05.15-10.28.50:726][  3]Cmd: ACTOR DELETE
+[2023.05.15-10.28.50:815][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-10.28.50:829][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.15-10.28.50:830][  3]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2023.05.15-10.28.52:690][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (пещераv3_пещера)
+[2023.05.15-10.29.42:319][711]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.15-10.29.42:330][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.15-10.29.42:331][711]PIE: New page: PIE session: ThirdPersonExampleMap (15 мая 2023 г., 16:29:42)
+[2023.05.15-10.29.42:333][711]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.05.15-10.29.42:336][711]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.15-10.29.42:338][711]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.15-10.29.42:558][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.219517s)
+[2023.05.15-10.29.42:560][711]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.15-10.29.42:562][711]LogPlayLevel: PIE: World Init took: (0.003468s)
+[2023.05.15-10.29.42:563][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.224455s)
+[2023.05.15-10.29.42:577][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.15-10.29.42:582][711]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.15-10.29.42:582][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.15-10.29.42:582][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.15-10.29.42:582][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.15-10.29.42:582][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.15-10.29.42:582][711]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.15-10.29.42:582][711]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.15-10.29.42:582][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.15-10.29.42:582][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.15-10.29.42:583][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.15-10.29.42:583][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.15-10.29.42:583][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.15-10.29.42:583][711]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.15-10.29.42:590][711]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.15-10.29.42:590][711]LogAudioMixer: Display: 1: FrontRight
+[2023.05.15-10.29.42:602][711]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.05.15-10.29.42:602][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.15-10.29.42:602][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.15-10.29.42:602][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.15-10.29.42:603][711]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.15-10.29.42:603][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.15-10.29.42:603][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.15-10.29.42:604][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.15-10.29.42:604][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.15-10.29.42:604][711]LogInit: FAudioDevice initialized.
+[2023.05.15-10.29.42:604][711]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.05.15-10.29.42:630][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.15-10.29.42:632][711]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.15-10.29.42:734][711]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Achieve_Castle_2.QvantovoePole has a component set to zero, which will result in a bad body instance. Scale:X=46.688 Y=137.500 Z=0.000
+[2023.05.15-10.29.42:735][711]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.15-10.29.42:735][711]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.15-10.29.42:736][711]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.15-10.29.42:737][711]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.15-13.29.42
+[2023.05.15-10.29.42:756][711]LogWorld: Bringing up level for play took: 0.114111
+[2023.05.15-10.29.42:757][711]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.05.15-10.29.42:774][711]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.05.15-10.29.42:774][711]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.15-10.29.42:774][711]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.15-10.29.42:774][711]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Animagic_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.15-10.29.42:808][711]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.15-10.29.42:811][711]PIE: Server logged in
+[2023.05.15-10.29.42:813][711]PIE: Play in editor total start time 0,487 seconds.
+[2023.05.15-10.29.42:948][712]LogRenderer: Reallocating scene render targets to support 1912x996 Format 10 NumSamples 1 (Frame:1).
+[2023.05.15-10.29.45:678][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.15-10.29.45:678][ 13]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.15-10.29.45:678][ 13]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.15-10.29.45:686][ 13]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-10.29.45:697][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-10.29.45:703][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.15-10.29.45:720][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-10.29.45:743][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.15-10.29.45:744][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.15-10.29.45:786][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.15-10.29.45:815][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.05.15-10.31.24:318][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (втораястена_Cube_002)
+[2023.05.15-10.31.26:923][566]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.05.15-10.31.34:584][326]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.05.15-10.31.37:534][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (пещераv3_пещера)
+[2023.05.15-10.32.18:073][272]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.05.15-10.32.22:831][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (пещераv3_пещера)
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Content: 'E:/UE_4.27/Engine/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Animation/RigLogic/Content: 'E:/UE_4.27/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'E:/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ControlRig/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ControlRig/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ImpostorBaker/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ImpostorBaker/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/MeshModelingToolset/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/MeshModelingToolset/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ModelingToolsEditorMode/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ModelingToolsEditorMode/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:520][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:521][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:521][108]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.46:611][108]EditorErrors: Warning: No assets to check in!
+[2023.05.15-10.33.50:226][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.15-10.33.51:869][438]LogSavePackage: Moving '../../../Academic Warriors/Project-XXX/Saved/ThirdPersonExampleMapEC911C5442EF27AA861B7C94A2571834.tmp' to '../../../Academic Warriors/Project-XXX/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.05.15-10.33.51:888][438]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.681
+[2023.05.15-10.33.51:901][438]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.05.15-10.33.51:901][438]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Content: 'E:/UE_4.27/Engine/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Animation/RigLogic/Content: 'E:/UE_4.27/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'E:/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ControlRig/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ControlRig/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ImpostorBaker/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ImpostorBaker/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/MeshModelingToolset/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/MeshModelingToolset/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ModelingToolsEditorMode/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ModelingToolsEditorMode/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:309][633]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/UE_4.27/Academic Warriors/Project-XXX'
+[2023.05.15-10.33.54:478][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.15-10.33.56:124][633]LogSavePackage: Moving '../../../Academic Warriors/Project-XXX/Saved/ThirdPersonExampleMap4C0E3E814865C45B3B8691928D0321B1.tmp' to '../../../Academic Warriors/Project-XXX/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.05.15-10.33.56:139][633]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.677
+[2023.05.15-10.34.11:522][633]LogSlate: Window 'Submit Files' being destroyed
+[2023.05.15-10.34.11:897][633]LogSourceControl: commit successful: [main c79cd5f] Поместил пещеру, сделай вырез и поправь вход
+[2023.05.15-10.34.11:930][633]SourceControl: [main c79cd5f] Поместил пещеру, сделай вырез и поправь вход
+[2023.05.15-10.34.11:930][633]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.05.15-10.34.11:934][633]SourceControl: Commited [main c79cd5f] Поместил пещеру, сделай вырез и поправь вход.
+[2023.05.15-10.34.11:957][634]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.05.15-10.34.11:957][634]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
